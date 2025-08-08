@@ -1,0 +1,3 @@
+protobuf==4.23.4
+grpcio==1.54.3 
+grpcio-status==1.54.3 
